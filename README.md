@@ -41,3 +41,11 @@ Your email is configured as `abhifreelance73@gmail.com`.
 
 ## Email contact behavior
 The main email CTA opens Gmail's compose page in a new tab, which is often more dependable when a visitor does not have a desktop email app configured. A direct `mailto:` email address is also shown as a fallback on the homepage. Visitors may need to sign in to Gmail for the web compose page.
+
+
+## Browser contact form
+The homepage includes a contact form using FormSubmit (a third-party form relay), so visitors can send an inquiry without opening their own email app. On the first test submission, FormSubmit will send an activation email to the configured inbox (`abhifreelance73@gmail.com`). Open that email and confirm activation before expecting submissions to be delivered. Check spam/junk if it does not arrive. The form needs an internet connection and is subject to the third-party service's availability and privacy terms. Direct email and WhatsApp links remain available as alternatives.
+
+
+## Visual identity update
+The design uses a clean white canvas, deep red accents, soft blush backgrounds, dark charcoal text, and subtle borders for a warmer editorial/consulting-brand feel. No stock-person imagery or fabricated testimonials have been added.

@@ -37,3 +37,7 @@ Your email is configured as `abhifreelance73@gmail.com`.
 - Canonical URLs, Open Graph metadata, Person/Service JSON-LD, internal links, sitemap and robots.txt.
 - This helps crawlers understand the site; it does not guarantee indexing, top rankings, or leads.
 - Add only truthful, verifiable claims and client-approved evidence. No client confidential information is included.
+
+
+## Email contact behavior
+The main email CTA opens Gmail's compose page in a new tab, which is often more dependable when a visitor does not have a desktop email app configured. A direct `mailto:` email address is also shown as a fallback on the homepage. Visitors may need to sign in to Gmail for the web compose page.

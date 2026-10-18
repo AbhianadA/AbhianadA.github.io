@@ -49,3 +49,7 @@ The homepage includes a contact form using FormSubmit (a third-party form relay)
 
 ## Visual identity update
 The design uses a clean white canvas, deep red accents, soft blush backgrounds, dark charcoal text, and subtle borders for a warmer editorial/consulting-brand feel. No stock-person imagery or fabricated testimonials have been added.
+
+
+## Confirmed red-and-white palette
+The HTML CSS has been updated to a white/off-white base with deep red (#c8202f), dark charcoal text, blush accents, and light borders. Upload these updated HTML files to replace the old repository versions.
